@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Charles Yuan ⸜(｡˃ ᵕ ˂ )⸝</h1>
-<h3 align="left">An Engineering Science student at UofT, specializing in Machine Intelligence. I'm proficient in machine learning and back end software development. Currently I'm learning Javascript and React, in the hopes of becoming a full-stack developer and making my own startup one day!</h3>
+<h3 align="left">I'm an Engineering Science student at UofT, specializing in Machine Intelligence. I'm proficient in machine learning and back end software development. Currently I'm learning Javascript and React, in the hopes of becoming a full-stack developer and making my own startup one day!</h3>
 
 - 🔭 I’m currently working on my [waifu list](https://charles-waifu-list.web.app/) full-stack project. 
   - [Front end](https://github.com/Chubbyman2/waifu-list-frontend) made with React and Axiom, hosted on Firebase
