@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Charles Yuan</h1>
-<h3 align="center">An Engineering Science student at UofT. I mostly specialize in machine learning and back end software development.</h3>
+<h1 align="center">Greetings, I'm Charles Yuan ⸜(｡˃ ᵕ ˂ )⸝</h1>
+<h3 align="left">I'm an Engineering Science student at UofT, specializing in Machine Intelligence. I'm proficient in machine learning and back end software development. Currently I'm learning Javascript and React, in the hopes of becoming a full-stack developer and making my own startup one day!</h3>
 
-- 🔭 I’m currently working on [my waifu list full-stack project](https://github.com/Chubbyman2/waifu-list-frontend)
+- 🔭 I’m currently working on my [waifu list](https://charles-waifu-list.web.app/) full-stack project. 
+  - [Front end](https://github.com/Chubbyman2/waifu-list-frontend) made with React and Axiom, hosted on Firebase
+  - [Back end](https://github.com/Chubbyman2/waifu-list-backend) made with Django and PostgreSQL, hosted on Azure
 
 - 🌱 I’m currently learning **React, Redux, Django, Redis**
 
-- 📫 How to reach me **charlesyuan59@gmail.com**
+- 📫 How to reach me: **charlesyuan59@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/charles-yuan-746837128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-yuan-746837128" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17818951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17818951" height="30" width="40" /></a>
-<a href="https://medium.com/@charles_yuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@charles_yuan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chubbyman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chubbyman" height="30" width="40" /></a>
 <a href="https://discord.gg/Chubbyman#4729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Chubbyman#4729" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/charles-yuan-746837128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-yuan-746837128" height="30" width="40" /></a>
+<a href="https://medium.com/@charles_yuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@charles_yuan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17818951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17818951" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chubbyman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chubbyman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
