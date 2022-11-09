@@ -7,7 +7,9 @@
   - [Front end](https://github.com/Chubbyman2/waifu-list-frontend) made with React and Axiom, hosted on Firebase
   - [Back end](https://github.com/Chubbyman2/waifu-list-backend) made with Django and PostgreSQL, hosted on Azure
 
-- 🌱 I’m currently learning **React, Redux, Django, Redis**
+- 🤖 I'm also working on [Mary](https://github.com/Chubbyman2/mary-bot), my Discord bot written in Go.
+
+- 🌱 I’m currently learning **Go, React, Redux, Django, Redis**
 
 - 📫 How to reach me: **charlesyuan59@gmail.com**
 
