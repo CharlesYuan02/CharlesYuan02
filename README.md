@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Charles Yuan ⸜(｡˃ ᵕ ˂ )⸝</h1>
-<h3 align="left">I'm an Engineering Science student at UofT, specializing in Machine Intelligence. I'm proficient in machine learning and back end software development. Currently I'm learning Javascript and React, in the hopes of becoming a full-stack developer and making my own startup one day!</h3>
+<h3 align="left">I'm an Engineering Science student at UofT, specializing in Machine Intelligence. I'm proficient in machine learning and back end software development. Currently I'm learning React and Go, in the hopes of becoming a full-stack developer and making my own startup one day!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chubbyman2&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="chubbyman2" /></a> </p>
 
