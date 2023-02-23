@@ -3,11 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chubbyman2&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="chubbyman2" /></a> </p>
 
-- 🔭 I’m currently working on my [waifu list](https://charles-waifu-list.web.app/) full-stack project. 
-  - [Front end](https://github.com/Chubbyman2/waifu-list-frontend) made with React and Axiom, hosted on Firebase
-  - [Back end](https://github.com/Chubbyman2/waifu-list-backend) made with Django and PostgreSQL, hosted on Azure
-
-- 🤖 I'm also working on [Mary](https://github.com/Chubbyman2/mary-bot), my Discord bot written in Go.
+- 🤖 I'm currently working on [Mary](https://github.com/Chubbyman2/mary-bot), my Discord bot written in Go.
 
 - 🌱 I’m currently learning **Go, React, Redux, Django, Redis**
 
