@@ -26,5 +26,5 @@
 
 <p float="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=chubbyman2&show_icons=true&locale=en" alt="chubbyman2" width="48%"/></p>
-<img alignt="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chubbyman2&" alt="chubbyman2" width="50%"/></p>
+<img alignt="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chubbyman2&" alt="chubbyman2" width="48%"/></p>
 </p>
