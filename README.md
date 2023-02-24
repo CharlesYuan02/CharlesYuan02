@@ -3,7 +3,7 @@
 
 <p float="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chubbyman2&show_icons=true&hide=jupyter%20notebook,matlab&locale=en&layout=compact" alt="chubbyman2" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img alignt="right" src="https://github-profile-trophy.vercel.app/?username=chubbyman2&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="chubbyman2" width="63%"/></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img alignt="right" src="https://github-profile-trophy.vercel.app/?username=chubbyman2&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="chubbyman2" width="60%"/></a>
 </p>
 <br />
 <br />
