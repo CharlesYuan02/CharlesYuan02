@@ -2,11 +2,9 @@
 <h3 align="left">I'm an Engineering Science student at UofT, specializing in Machine Intelligence. I'm proficient in machine learning and back end software development. Currently I'm learning React and Go, in the hopes of becoming a full-stack developer and making my own startup one day!</h3>
 
 <p align="left">
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left" src="https://github-profile-trophy.vercel.app/?username=chubbyman2&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="chubbyman2"/></a> </p>
-<p><img alignt="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chubbyman2&show_icons=true&hide=jupyter%20notebook,matlab&locale=en&layout=compact" alt="chubbyman2"/> </p>
-</p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chubbyman2&show_icons=true&hide=jupyter%20notebook,matlab&locale=en&layout=compact" alt="chubbyman2"/> </p>
 <a href="https://isolator.fandom.com/wiki/Komura_Suu"><img src="https://cdn.discordapp.com/attachments/336330277213175808/1079546797078355978/Suu_Komura.jpg" align="right" width="200"> </a>
+</p>
 
 - 🤖 I'm currently working on [Mary](https://github.com/Chubbyman2/mary-bot), my Discord bot written in Go.
 
