@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, I'm Charles Yuan ⸜(｡˃ ᵕ ˂ )⸝</h1>
 <h3 align="left">I'm an Engineering Science student at UofT, specializing in Machine Intelligence. I'm proficient in machine learning and back end software development. Currently I'm learning React and Go, in the hopes of becoming a full-stack developer and making my own startup one day!</h3>
 
-<a href="https://isolator.fandom.com/wiki/Komura_Suu"><img src="https://cdn.discordapp.com/attachments/336330277213175808/1079546797078355978/Suu_Komura.jpg" align="right" height="200"> </a>
+<a href="https://isolator.fandom.com/wiki/Komura_Suu"><img src="https://cdn.discordapp.com/attachments/336330277213175808/1079546797078355978/Suu_Komura.jpg" align="right" height="175"> </a>
 
 <p float="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chubbyman2&show_icons=true&hide=jupyter%20notebook,matlab&locale=en&layout=compact" alt="chubbyman2" height="175"/>
