@@ -4,8 +4,8 @@
 <a href="https://isolator.fandom.com/wiki/Komura_Suu"><img src="https://cdn.discordapp.com/attachments/336330277213175808/1079546797078355978/Suu_Komura.jpg" align="right" height="175"> </a>
 
 <p float="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chubbyman2&show_icons=true&hide=jupyter%20notebook,matlab&locale=en&layout=compact" alt="chubbyman2" height="175"/>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img alignt="right" src="https://github-profile-trophy.vercel.app/?username=chubbyman2&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="chubbyman2"/></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left" src="https://github-profile-trophy.vercel.app/?username=chubbyman2&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="chubbyman2"/></a>
+<img alignt="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chubbyman2&show_icons=true&hide=jupyter%20notebook,matlab&locale=en&layout=compact" alt="chubbyman2" height="175"/>
 </p>
 
 - 🤖 I'm currently working on [Mary](https://github.com/Chubbyman2/mary-bot), my Discord bot written in Go.
