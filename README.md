@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Charles Yuan ⸜(｡˃ ᵕ ˂ )⸝</h1>
-<h3 align="left">I'm an Engineering Science student at UofT, specializing in Machine Intelligence. I'm proficient in machine learning and back end software development. Currently I'm learning React and Go, in the hopes of becoming a full-stack developer and making my own startup one day!</h3>
+<h3 align="left">I'm an Engineering Science student at UofT, specializing in Machine Intelligence. I'm proficient in machine learning and back end software development. Currently I'm learning React and Django, in the hopes of becoming a full-stack developer and making my own startup one day!</h3>
 
 <a href="https://isolator.fandom.com/wiki/Komura_Suu"><img src="https://static.wikia.nocookie.net/isolator/images/f/f8/Suu_Komura.png/revision/latest?cb=20240119132126" align="right" height="400"> </a>
 
@@ -7,9 +7,9 @@
 <img alignt="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chubbyman2&show_icons=true&hide=jupyter%20notebook,matlab&locale=en&layout=compact" alt="chubbyman2" height="175"/>
 </p>
 
-- 🤖 I'm currently working on [Mary](https://github.com/Chubbyman2/mary-bot), my Discord bot written in Go.
+- 📈 I'm currently working on [portfolio.io](https://github.com/Chubbyman2/portfolio.io), a web app for sharing your investment portfolios with friends!
 
-- 🌱 I’m currently learning **Go, React, Redux, Django, Redis**
+- 🌱 I’m currently learning **React, Redux, and Django**
 
 - 📫 How to reach me: **charlesyuan59@gmail.com**
 
